@@ -1,0 +1,16 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {lithuanian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}\IeC {\k I}vadas}{2}{section.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Elektronin\IeC {\.e}s prekybos privalumai ir tr\IeC {\=u}kumai}{3}{section.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Privalumai}{3}{subsection.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Tr\IeC {\=u}kumai}{3}{subsection.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Apibendrinimas}{5}{subsection.2.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Pl\IeC {\.e}tra}{6}{section.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}I\IeC {\v s}vados}{12}{section.4}% 
